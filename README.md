@@ -33,3 +33,7 @@ The pricing cards:
 - Display in a 3-column grid on medium and larger screens using:
 ```html
 md:grid-cols-3
+```
+
+## Reason for using CSS Grid
+I used CSS Grid because it makes it easy to arrange the pricing cards into clean columns and rows. It also works well for responsive design since the cards stack on mobile and become multiple columns on larger screens.
